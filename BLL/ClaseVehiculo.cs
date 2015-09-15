@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BLL
 {
-    class ClaseDeVehiculos
+    class ClaseVehiculo
     {
     }
 }
