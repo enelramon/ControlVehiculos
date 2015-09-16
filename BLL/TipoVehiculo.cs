@@ -7,5 +7,7 @@ namespace BLL
 {
     class TipoVehiculo
     {
+        public string Descripcion { get; set; }
+
     }
 }
