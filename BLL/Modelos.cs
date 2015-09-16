@@ -5,7 +5,9 @@ using System.Text;
 
 namespace BLL
 {
-    class Modelo
+
+   public class Modelos
     {
+        public int IDModelo { get; set; }
     }
 }
