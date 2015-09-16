@@ -3,12 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ControlVehiculos
+namespace BLL
 {
-    class TipodeCombustible
+    class ClaseVehiculo
     {
-        public string Nombre { get; set; }
-
-
     }
 }
