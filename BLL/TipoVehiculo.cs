@@ -9,5 +9,7 @@ namespace BLL
     {
         public int TipoVehiculoId { get; set; }
 
+        public string Descripcion { get; set; }
+
     }
 }
