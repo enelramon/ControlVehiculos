@@ -7,6 +7,8 @@ namespace BLL
 {
     class TipoVehiculo
     {
+        public int TipoVehiculoId { get; set; }
+
         public string Descripcion { get; set; }
 
     }
