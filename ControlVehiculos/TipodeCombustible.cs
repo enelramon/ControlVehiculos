@@ -7,7 +7,7 @@ namespace ControlVehiculos
 {
     class TipodeCombustible
     {
-        public string Nombre { get; set; }
+        
 
 
     }
