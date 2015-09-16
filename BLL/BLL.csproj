@@ -40,7 +40,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClaseVehiculo.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Colores.cs" />
     <Compile Include="Modelos.cs" />
     <Compile Include="CondicionVehiculo.cs" />
