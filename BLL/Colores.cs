@@ -7,5 +7,6 @@ namespace BLL
 {
     class Colores
     {
+        public int s { get; set; }
     }
 }
