@@ -7,6 +7,8 @@ namespace BLL
 {
     class CondicionVehiculo
     {
-        
+        public int CondicionId { get; set; }
+
+
     }
 }
