@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace BLL
+namespace ControlVehiculos
 {
-    class Colores
+    class TipodeCombustible
     {
-        public int ColorId { get; set; }
+        public string Nombre { get; set; }
+
 
     }
 }

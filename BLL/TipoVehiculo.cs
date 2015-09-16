@@ -5,9 +5,7 @@ using System.Text;
 
 namespace BLL
 {
-    class Colores
+    class TipoVehiculo
     {
-        public int ColorId { get; set; }
-
     }
 }
