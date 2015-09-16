@@ -9,5 +9,6 @@ namespace ControlVehiculos
     {
         public string Nombre { get; set; }
 
+
     }
 }
