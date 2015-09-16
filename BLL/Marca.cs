@@ -7,5 +7,7 @@ namespace BLL
 {
     class Marca
     {
+        public string Nombre { get; set; }
+
     }
 }
