@@ -7,5 +7,10 @@ namespace BLL
 {
     class Colores
     {
+        /// <summary>
+        /// El ColorId se autogenerara
+        /// </summary>
+        public int ColorId { get; set; }
+
     }
 }
