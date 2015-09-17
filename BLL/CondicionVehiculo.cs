@@ -7,6 +7,6 @@ namespace BLL
 {
     class CondicionVehiculo
     {
-        
+        public string Nombre { get; set; }
     }
 }
