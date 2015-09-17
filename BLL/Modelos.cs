@@ -12,5 +12,7 @@ namespace BLL
 
         public string Nombre { get; set; }
 
+        public int MarcaId { get; set; }
+
     }
 }

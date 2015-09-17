@@ -7,8 +7,7 @@ namespace BLL
 {
     class TiposCombustible
     {
-        public int IdTiposCombustible { get; set; }
+        public int TiposCombustibleId { get; set; }
 
-        public string NombresTiposCombustible { get; set; }
     }
 }
