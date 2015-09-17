@@ -7,5 +7,7 @@ namespace BLL
 {
     class TipoMotor
     {
+        public int TipoMotorId { get; set; }
+
     }
 }
